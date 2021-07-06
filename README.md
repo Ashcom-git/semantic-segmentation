@@ -1,0 +1,2 @@
+# Semantic Segmentation
+In this side project, I perform semantic segmentation on objects displayed in images showing Indian roads. This means that every pixel in the image is assigned one label from the set available to us. The model is trained using the Unet architecture of CNN. The set of weights for this model is initialized using the Resnet architecture of CNN pre-trained on the Imagenet dataset.
